@@ -1,3 +1,6 @@
 data
 venv
-c
+catboost_info
+.ipynb_checkpoints
+.gitignore
+*.csv

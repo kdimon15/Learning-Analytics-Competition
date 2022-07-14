@@ -1,7 +1,0 @@
-data
-venv
-catboost_info
-.ipynb_checkpoints
-.gitignore
-*.csv
-.DS_Store
